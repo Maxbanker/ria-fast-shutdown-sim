@@ -1,6 +1,5 @@
 # RIA Fast Shutdown Simulator (v0.7)
 
-[![CI](https://github.com/Maxbanker/ria-fast-shutdown-sim/actions/workflows/ci.yml/badge.svg)](https://github.com/Maxbanker/ria-fast-shutdown-sim/actions/workflows/ci.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17868291.svg)](https://doi.org/10.5281/zenodo.17868291)
 [![License](https://img.shields.io/github/license/Maxbanker/ria-fast-shutdown-sim.svg)](https://github.com/Maxbanker/ria-fast-shutdown-sim/blob/main/LICENSE)
 
